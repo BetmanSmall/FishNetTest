@@ -6,6 +6,75 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/SceneSelector/SceneSelector.unity
+    guid: cbe10d21c04f9cd43a0abcb6494888a1
+  - enabled: 1
+    path: Assets/FishNet/Demos/ColliderRollback/Scenes/ColliderRollbackDemo.unity
+    guid: 9e30e3df1ec43184daee875457d49364
+  - enabled: 1
+    path: Assets/FishNet/Demos/HashGrid/Scenes/HashGrid_Demo.unity
+    guid: 99947f0521cb96a4087d4496b8761a23
+  - enabled: 1
+    path: Assets/FishNet/Demos/Network LOD/Scenes/NetworkLOD_Demo.unity
+    guid: 961b96636e4c7644584dc8dfd0d0aad6
+  - enabled: 1
+    path: Assets/FishNet/Demos/Prediction V1/CharacterController/CharacterControllerPrediction.unity
+    guid: ec1a6e85f57626a4cbacaf306766bdfd
+  - enabled: 1
+    path: Assets/FishNet/Demos/Prediction V1/Rigidbody/RigidbodyPrediction.unity
+    guid: 005289ca292137448ba5edc0e1163f4a
+  - enabled: 1
+    path: Assets/FishNet/Demos/Prediction V1/Transform/TransformPrediction.unity
+    guid: 23d8c720c2338a54c9787668c81290f6
+  - enabled: 1
+    path: Assets/FishNet/Demos/Prediction V2 (Experimental)/CharacterController/PredictionV2_CC.unity
+    guid: 941f6f8cbac7e9d418ffc6f22ee9359f
+  - enabled: 1
+    path: Assets/FishNet/Demos/Prediction V2 (Experimental)/Rigidbody/PredictionV2_RB.unity
+    guid: 7f31e665d963214449f27dc0ad466dfb
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Scenes/AdditiveScenes_0.unity
+    guid: 7643cdc3eefb15f4f8608cc633c55f7e
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Scenes/AdditiveScenes_1.unity
+    guid: aab2581cdfbe8f44698ef91d36f2d6c6
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Scenes/AdditiveScenes_2.unity
+    guid: 969cc8a8a67c58b4da9baa82a65c66bf
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Scenes/AdditiveScenes_3.unity
+    guid: 8ac819f926d1e914e9552e79c147082d
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager/Additive Scenes/Scenes/AdditiveScenes_Start.unity
+    guid: afbcf8f41ca78ef4296672aeb824f605
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager (Old Examples)/Scenes/Additive/AdditiveConnection.unity
+    guid: cc489be8bb6ae444283f394c5e5fa8e2
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager (Old Examples)/Scenes/Additive/AdditiveGlobal.unity
+    guid: c43835f124dc68747a2091c4b8c42f80
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager (Old Examples)/Scenes/Additive/AdditiveMain.unity
+    guid: e7d3ac2d556912042aca9aa1947aea07
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager (Old Examples)/Scenes/Replace/ReplaceConnection.unity
+    guid: 58053e81b62de3a499afaf0f73d01b01
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager (Old Examples)/Scenes/Replace/ReplaceGlobal.unity
+    guid: fddd81e62368fe9448b0eb0a80da6bb4
+  - enabled: 1
+    path: Assets/FishNet/Demos/SceneManager (Old Examples)/Scenes/Replace/ReplaceMain.unity
+    guid: 099398b014b86004abd99a7d21cf417a
+  - enabled: 1
+    path: Assets/FishNet/Plugins/GameKit/Utilities/Types/ObjectPooling/Demo/Scenes/ObjectPool.unity
+    guid: 986fe9a85bd2d904fa3d44ac2c7bf0da
+  - enabled: 1
+    path: Assets/FishNetTPPAssets/Scenes/Prediction.unity
+    guid: 3540a2b313ada964f991556d2596a803
+  - enabled: 1
+    path: Assets/FishNet/Demos/Authenticator/Authenticator.unity
+    guid: 0bc02b628363de5499d5e7c00bd63b1b
+  - enabled: 1
+    path: Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+    guid: e9017d5f96b9f09489b4b37e1d6eb914
   m_configObjects: {}
